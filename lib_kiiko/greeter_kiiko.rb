@@ -5,4 +5,7 @@ class Greater
 	def greet
 		"Hello, #(@who)"
 	end
+	def show_date
+		"Date: 03.12.2018"
+	end
 end
