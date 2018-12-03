@@ -8,4 +8,7 @@ class Greater
 	def show_date
 		"Date: 03.12.2018"
 	end
+	def show_time
+		"Time: 10:33 AM"
+	end
 end
